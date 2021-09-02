@@ -5,3 +5,4 @@ try:
     print("so thap phan %d chuyen sang bat phan la: %o" %(so_10,so_10))
 except:
     print("erordata input ")
+print("khong can sua doi")
