@@ -6,3 +6,4 @@ try:
 except:
     print("erordata input ")
 print("khong can sua doi")
+#Đã đọc file này
