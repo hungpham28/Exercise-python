@@ -1,0 +1,1 @@
+#hiển thị các ước số của n
